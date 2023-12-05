@@ -12,3 +12,13 @@ main{
     margin: auto;
     box-shadow: 3px 3px 5px rgba(red, green, blue, alpha);
 }
+
+h1{
+    font-size: 2em;
+    color:wheat;
+}
+
+img.lado{
+    float: right;
+
+}
